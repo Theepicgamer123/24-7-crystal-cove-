@@ -1,12 +1,12 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "SoloCloudHosting",
+    "username": "bot",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "CrystalCove123.aternos.me",
+    "ip": "Frosthollow123.aternos.me",
     "port": 13030,
     "version": "1.20.1",
     "try-creative": false
